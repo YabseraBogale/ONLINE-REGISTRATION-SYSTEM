@@ -1,7 +1,10 @@
 public class Grade{
-    int midexam{get; set;}
-    int finalexam{get;set;}
-    int test{get;set;}
+    double midexam{get; set;}
+    double finalexam{get;set;}
+    double test{get;set;}
+    double totalresult{get;set;}
     
+    
+
 
 }
