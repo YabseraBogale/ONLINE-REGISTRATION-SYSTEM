@@ -3,8 +3,6 @@ public class Grade{
     double finalexam{get;set;}
     double test{get;set;}
     double totalresult{get;set;}
+    char grade{get;set;}
     
-    
-
-
 }
