@@ -1,6 +1,6 @@
 public class Course{
-    public string coursename;
-    public string courseid;
-    public int credithour;
+    string coursename;
+    string courseid;
+    int credithour;
 
 }
