@@ -1,5 +1,5 @@
 public class Feedback{
-    public string comment;
-    public string username;
+    string comment{get;set;}
+    string username{get;set;}
     
 }
