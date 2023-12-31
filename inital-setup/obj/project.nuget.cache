@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jf1B99mog3qSqjdmH6T68V3k/RWnSyD7kQbM0jJln6tTGKA1BmAQGox7/1eRM9uHuiSSc/f1nfup14CIh9VmDg==",
+  "dgSpecHash": "P4eTOjutmchvMCXML3fdvqiwCCKsxyZmf0s0MLY2clXlt0GktqE6YXF/6IJmfpY8BDdX+C/x+WeGfi60L/AQWQ==",
   "success": true,
   "projectFilePath": "/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/inital-setup.csproj",
-  "expectedPackageFiles": [
-    "/home/yabsera/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "/home/yabsera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "/home/yabsera/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
