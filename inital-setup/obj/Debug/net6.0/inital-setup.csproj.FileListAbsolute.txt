@@ -1,0 +1,15 @@
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/bin/Debug/net6.0/inital-setup
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/bin/Debug/net6.0/inital-setup.deps.json
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/bin/Debug/net6.0/inital-setup.runtimeconfig.json
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/bin/Debug/net6.0/inital-setup.dll
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/bin/Debug/net6.0/inital-setup.pdb
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.GeneratedMSBuildEditorConfig.editorconfig
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.AssemblyInfoInputs.cache
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.AssemblyInfo.cs
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.csproj.CoreCompileInputs.cache
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.sourcelink.json
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.dll
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/refint/inital-setup.dll
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.pdb
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/inital-setup.genruntimeconfig.cache
+/home/yabsera/Documents/Github/ONLINE-REGISTRATION-SYSTEM/inital-setup/obj/Debug/net6.0/ref/inital-setup.dll
